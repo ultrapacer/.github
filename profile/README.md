@@ -1,7 +1,10 @@
 ![My image](https://ultrapacer.com/public/favicon-96x96.png)
 
-# using ultraPacer
+## using ultraPacer
 Go to [https://ultrapacer.com](https://ultrapacer.com)
+
+## Issues, Bugs, Features, Etc
+Post them in the [issues repo](https://github.com/ultrapacer/issues)
 
 ## No License / Copyright
 The source code herin is copyright to Danny Murphy.
