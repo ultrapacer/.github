@@ -4,7 +4,7 @@
 Go to [https://ultrapacer.com](https://ultrapacer.com)
 
 ## Issues, Bugs, Features, Etc
-Post them in the [issues repo](https://github.com/ultrapacer/issues)
+Post them in the [issues repo](https://github.com/ultrapacer/issues/issues)
 
 ## No License / Copyright
 The source code herin is copyright to Danny Murphy.
