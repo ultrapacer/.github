@@ -4,7 +4,7 @@
 Go to [https://ultrapacer.com](https://ultrapacer.com)
 
 ## Issues, Bugs, Features, Etc
-Post them in the [issues repo](https://github.com/ultrapacer/issues/issues)
+Post and discuss in the [feedback hub](https://feedback.ultrapacer.com)
 
 ## No License / Copyright
 The source code herin is copyright to ULTRAPACER, LLC.
