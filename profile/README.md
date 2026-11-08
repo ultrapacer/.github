@@ -1,4 +1,4 @@
-![My image](https://storage.googleapis.com/ultrapacer-public/logos/up-icon.png)
+![My image](https://storage.googleapis.com/ultrapacer-public/logos/up-logo.png)
 
 ## using ultraPacer
 Go to [https://ultrapacer.com](https://ultrapacer.com)
